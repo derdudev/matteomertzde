@@ -1,0 +1,18 @@
+.ml7 {
+    position: relative;
+}
+.ml7 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+}
+.ml7 .letter {
+    transform-origin: 0 100%;
+    display: inline-block;
+    line-height: 1em;
+}
+
+.ml7 .letters{
+    width: fit-content;
+    float: left;
+}
